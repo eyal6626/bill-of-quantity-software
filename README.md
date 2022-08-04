@@ -1,18 +1,16 @@
 # bill-of-quantity-software
+This project is software with a GUI that creates a bill of quantity word file. The software gets the type of work that the user wants with the unit and the price of the work.
 
-This project is software with a GUI that create a bill of quantity word file.
-The software get the type of works that the user want with the unit and the price of the work,
+For example,
 
-for example: 
+Work type: Building a wall
 
-work type: Building a wall
-
-unit: 2 meters 
+unit: 2 meters
 
 price: 100₪
 
-the user also enter the addres of the work.
+The user also enters the address of the work.
 
-When the user ends he can press "Create File", a word file will be created on the desktop.
+When the user ends, he can press "Create File." A word file will be created on the desktop.
 
 The user can add his company name in the settings.
