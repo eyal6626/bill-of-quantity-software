@@ -14,3 +14,10 @@ The user also enters the address of the work.
 When the user ends, he can press "Create File." A word file will be created on the desktop.
 
 The user can add his company name in the settings.
+
+# How to run
+Go to the 
+
+### What I Learned
+* How to create and edit docx files using c#
+* How to design GUI using Windows Forms
