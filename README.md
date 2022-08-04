@@ -16,7 +16,7 @@ When the user ends, he can press "Create File." A word file will be created on t
 The user can add his company name in the settings.
 
 # How to run
-Go to the 
+Go to the Executable flies folder then press on "כתב כמויות.exe"
 
 ### What I Learned
 * How to create and edit docx files using c#
