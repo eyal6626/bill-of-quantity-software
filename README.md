@@ -18,6 +18,6 @@ The user can add his company name in the settings.
 # How to run
 Go to the Executable flies folder then press on "כתב כמויות.exe"
 
-### What I Learned
+# What I Learned
 * How to create and edit docx files using c#
 * How to design GUI using Windows Forms
